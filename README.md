@@ -1,20 +1,29 @@
-## Tim Rayner 👨🏻‍💻 
-Full stack typescript engineer
+# 👋 Hey there, I'm Tim Rayner! 👨🏻‍💻  
+### Full-Stack TypeScript Engineer | R&D at Artlist.io  
 
-Experienced Full Stack Engineer working in RND at Artlist.io. 
+---
 
-### 💾 Experienced Technologies: 
+## 🛠️ Tech Stack & Expertise  
 
-Typescript, React, Next, Nest, Vue, Nuxt, Angular, C#, PostgreSQL, MSQL.
+### 💾 Languages & Frameworks  
+**Frontend:** React, Next.js, Vue, Nuxt, Angular  
+**Backend:** NestJS, Node.js, C#  
+**Databases:** PostgreSQL, MSSQL  
 
-### ⚙️ Paradigms: 
+### ⚙️ Development Paradigms  
+- Object-Oriented Programming (OOP)  
+- Functional Programming  
+- Procedural Programming  
+- Event-Driven Programming (EDP)  
 
-Procedural programming, OOP, Functional Programming, EDP, 
+---
 
-### My Current Development TODO list:
+## 📌 What I'm Working On  
 
-☑️ learning Domain Driven Design 🧠
+✅ **Diving deep into Domain-Driven Design (DDD)** 🧠  
+✅ **Building a passion project into a large-scale public service** 🎶  
+✅ **Improving my skills every single day** 🏯  
 
-☑️ Working on turning a passion project into a large-scale public service 🎶
+---
 
-☑️ Becoming better & better every day 🏯
+💡 Always eager to collaborate and discuss innovative ideas! Feel free to connect or check out my latest projects. 🚀  
