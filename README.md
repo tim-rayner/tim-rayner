@@ -1,16 +1,19 @@
-## Hi there 👋
+## Tim Rayner 👨🏻‍💻 - Full stack typescript engineer
 
-<!--
-**tim-rayner/tim-rayner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Experienced Full Stack Engineer working in RND at Artlist.io. 
 
-Here are some ideas to get you started:
+### 💾 Experienced Technologies: 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Typescript, React, Next, Nest, Vue, Nuxt, Angular, C#, PostgreSQL, MSQL.
+
+### ⚙️ Paradigms: 
+
+Procedural programming, OOP, Functional Programming, EDP, 
+
+### My Current Development TODO list:
+
+☑️ learning Domain Driven Design 🧠
+
+☑️ Working on turning a passion project into a large-scale public service 🎶
+
+☑️ Becoming better & better every day 🏯
