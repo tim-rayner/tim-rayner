@@ -1,4 +1,5 @@
-## Tim Rayner 👨🏻‍💻 - Full stack typescript engineer
+## Tim Rayner 👨🏻‍💻 
+Full stack typescript engineer
 
 Experienced Full Stack Engineer working in RND at Artlist.io. 
 
