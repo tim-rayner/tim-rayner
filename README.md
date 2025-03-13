@@ -6,7 +6,7 @@
 ### 💾 Languages & Frameworks  
 **Frontend:** React, Next.js, Vue, Nuxt, Angular  
 **Backend:** NestJS, Node.js, C#  
-**Databases:** PostgreSQL, MSSQL  
+**Databases:** PostgreSQL, MSSQL, MongoDB
 
 ### ⚙️ Development Paradigms  
 - Object-Oriented Programming (OOP)  
