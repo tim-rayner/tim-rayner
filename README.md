@@ -1,4 +1,4 @@
-# 👋 Hey there, I'm Tim Rayner! 👨🏻‍💻  
+# 👋 Hey there, I'm Tim! 👨🏻‍💻  
 ### Full-Stack TypeScript Engineer | R&D at Artlist.io  
 
 ## 🛠️ Tech Stack & Expertise  
