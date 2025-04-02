@@ -19,6 +19,7 @@
 ## 📌 What I'm currently Working On   
 
 ✅  **Diving deep into Domain-Driven Design (DDD)** 🧠  
+✅ **Building a Shopify shop storefront with Hydrogen (Remix)
 ✅  **Building a passion project into a large-scale public service** 🎶  
 ✅  **Improving my skills every single day** 🏯  
 
