@@ -7,6 +7,7 @@
 **Frontend:** React, Next.js, Vue, Nuxt, Angular  
 **Backend:** NestJS, Node.js, C#  
 **Databases:** PostgreSQL, MSSQL, MongoDB
+**Infra:** Supabase, nx, Github/Gitlabs CI/CD, AWS
 
 ### ⚙️ Development Paradigms  
 - Object-Oriented Programming (OOP)  
@@ -18,8 +19,8 @@
 
 ## 📌 What I'm currently Working On   
 
-✅  **Diving deep into Domain-Driven Design (DDD)** 🧠  
-✅  **Building a Shopify shop storefront with Hydrogen (Remix)** 🎶  
+✅  **Research and Development on best ways to utilise image/video/music gen models in code** 🤖
+✅  **Building a google maps X image gen project** 👀
 ✅  **Building a passion project into a large-scale public service** 🎶  
 ✅  **Improving my skills every single day** 🏯  
 
