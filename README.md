@@ -1,5 +1,5 @@
 # 👋 Hey there, I'm Tim! 👨🏻‍💻  
-### Full-Stack TypeScript Engineer | R&D at Artlist.io  
+### Full-Stack TypeScript Engineer | R&D at Artlist.io / MotionArray
 
 ## 🛠️ Tech Stack & Expertise  
 
