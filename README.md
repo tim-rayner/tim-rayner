@@ -23,8 +23,11 @@
 ## 📌 What I'm currently Working On   
 
 ✅  **Research and Development on best ways to utilise image/video/music gen models in code** 🤖
+
 ✅  **Building a google maps X image gen project** 👀
+
 ✅  **Building a passion project into a large-scale public service** 🎶  
+
 ✅  **Improving my skills every single day** 🏯  
 
 ---
