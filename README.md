@@ -5,8 +5,11 @@
 
 ### 💾 Languages & Frameworks  
 **Frontend:** React, Next.js, Vue, Nuxt, Angular  
+
 **Backend:** NestJS, Node.js, C#  
+
 **Databases:** PostgreSQL, MSSQL, MongoDB
+
 **Infra:** Supabase, nx, Github/Gitlabs CI/CD, AWS
 
 ### ⚙️ Development Paradigms  
