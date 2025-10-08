@@ -1,35 +1,13 @@
-# 👋 Hey, I'm Tim! 
-### Full-Stack Engineer | R&D at Artlist.io | MotionArray
+# Hi 👋🏼
 
-## 🛠️ Tech Stack & Expertise  
+I'm [Tim](https://timrayner.com), a full stack engineer based in the UK.
 
-### 💾 Languages & Frameworks  
-**Frontend:** React, Next.js, Vue, Nuxt, Angular  
+I've been solving problems with code since before I can remember, with a particular passion in implementing great **user experience**. 
 
-**Backend:** NestJS, Node.js, C#  
+Outside of coding, you'll probably find me enjoying the outside with my two dogs 🐶 or playing video games with friends 🎮. 
+I'm an outgoing individual with a passion for music and code 🎧 and am always looking for ways to better my game 📈
 
-**Databases:** PostgreSQL, MSSQL, MongoDB
+**Fun Facts:**
+- I started coding when I was 14
+- Hip Hop/Rap is my absolute **favourite** music genre 🎶
 
-**Infra:** Supabase, nx, Github/Gitlabs CI/CD, AWS
-
-### ⚙️ Development Paradigms  
-- Object-Oriented Programming (OOP)  
-- Functional Programming  
-- Procedural Programming  
-- Event-Driven Programming (EDP)  
-
----
-
-## 📌 What I'm currently Working On   
-
-✅  **Research and Development on best ways to utilise image/video/music gen models in code** 🤖
-
-✅  **Building a google maps X image gen project** 👀
-
-✅  **Building a passion project into a large-scale public service** 🎶  
-
-✅  **Improving my skills every single day** 🏯  
-
----
-
-💡 Always eager to collaborate and discuss innovative ideas! Feel free to connect or check out my latest projects. 🚀  
