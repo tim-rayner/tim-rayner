@@ -1,9 +1,17 @@
 # Hi 👋🏼
 
-I'm [Tim](https://timrayner.com), a full stack engineer based in the UK.
+I'm [Tim](https://timrayner.com), a full stack engineer living in the UK, dreaming of San Francisco 🌁
 
-I've been solving problems with code since before I can remember, with a particular passion in implementing great **user experience**. 
+I really enjoy learning, building, and experimenting with what modern AI harnesses make possible, whilst finding creative ways to overcome their limitations 🤔
 
-Outside of coding, you'll probably find me enjoying the outside with my two dogs 🐶 or playing video games with friends 🎮. 
-I'm an outgoing individual with a passion for music and code 🎧 and am always looking for ways to better my game 📈
+My primary focus in anything that I do is to build amazing user experiences. 
 
+Some of my standout UX role models:
+
+- Waymo
+- Tesla Infotainment
+- Github
+
+I have no public projects I'm super proud of... but I hope to change that in the coming months. I've got a lot cooking under the hood, so watch this space... 
+
+... if you're still reading, thank you ❤️
